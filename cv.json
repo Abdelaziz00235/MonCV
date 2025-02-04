@@ -1,175 +1,261 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Abdoulaye Abdelaziz",
     "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "image": "/aziz_avatar.jpg.PNG",
+    "email": "abdoulayeabdelaziz94@gmail.com",
+    "phone": "+235 68 11 12 04",
+    "url": "",
+    "summary": "Ingénieur informatique passionné par le développement de sites web des applications et la résolution de problèmes techniques. Mon ambition est de mettre une solution informatique efficaces, simples et adaptable aux besoin.",
+    "theme": "blue",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "",
+      "city": "N'Djamena",
+      "countryCode": "TD",
+      "region": "Tchad"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
-      },
-      {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "Abdelaziz00235",
+        "url": "https://github.com/Abdelaziz00235"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Abdoulaye ABDELAZIZ",
+        "url": "https://www.linkedin.com/in/abdoulaye-abdelaziz-564553b6/"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "name": "OUMAL-KHER HOLDING",
+      "position": "Développeur Informatique",
+      "location_type": "",
+      "location": "N'Djamena - Tchad",
+      "url": "#",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "Conception et réalisation d'une application de gestion de stock, Architecture de l’application ",
       "highlights": [
-        "Improved website performance by optimizing code"
+        ""
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        
+        " Conception et réalisation d'une application de gestion de stock :(Définition et analyse du besoin, les fonctions principale d’un gestionnaire de stock et Définition des utilisateurs du système)",
+        " Architecture de l’application :(MySQL,HTML, CSS, JAVASCRYPT, PHP) ",
+        " Maintenance et amélioration :(Corriger les bugs et assistance utilisateur)" 
+
       ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
+      
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
+        "MySQL",
         "HTML",
-        "CSS"
+        "CSS",
+        "JAVASCRIPT" 
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "name": "ASSOCIATION AMELIORONS NOTRE CADRE DE VIE",
+      "position": "Développeur Web ",
+      "location_type": "",
+      "location": "N'Djamena - Tchad",
+      "url": "#",
+      "startDate": "20-08-2017",
+      "endDate": "10-10-2019",
+      "summary": "Conception et réalisation d'un web vitrine de l’association",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        ""
+      ],
+      "responsibilities": [
+        "Identifiez les besoins du site vitrine",
+        "Identifiez les audience cible", 
+        "Conception technique : HTML, CSS, JAVASCRYPT, PHP, WORDPRESS",
+        "Déploiement et maintenance : Hébergement, assurer la maintenance."  
+      ],
+      "achievements": [],
+      "skills": [
+        
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "PHP",
+        "Wordpress",
+        "MySQL"
       ]
-    }
+    },
+    {
+      "name": "Société Civile Immobilière Malack",
+      "position": "Administrateur de Base de Données  ",
+      "location_type": "",
+      "location": "N'Djamena - Tchad",
+      "url": "#",
+      "startDate": "20-08-2017",
+      "endDate": "10-10-2019",
+      "summary": "Gestion et maintenance des bases de données de l'entreprise.",
+      "highlights": [],
+      "responsibilities": [
+        "Modélisation et Normalisation (structure logique de données, amélioration d’intégrité)",
+        "Sécurité, sauvegarde et récupération de données.",
+        "Surveillance et Maintenance"
+      ],
+      "achievements": [],
+      "skills": [
+        
+        "ACCESS", 
+        "MySQL"
+      ]
+    },
+    {
+      "name": "ETABLISSEMENT GECIMEX",
+      "position": "Chef Service Commercial",
+      "location_type": "",
+      "location": "N'Djamena - Tchad",
+      "url": "#",
+      "startDate": "2020-01-02",
+      "endDate": "2021-01-02",
+      "summary": "Conception et réalisation d'un web vitrine de l’association",
+      "highlights": [
+        ""
+      ],
+      "responsibilities": [
+        "Supervision et motivation de l'équipe de vente pour assurer une performance optimale.",
+        "Développement et entretien de relations solides avec les clients clés."
+      ],
+      "achievements": [],
+      "skills": [
+        
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "PHP",
+        "Wordpress",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "CHAD SUPPLIERS & COMMERCIAL SERVICES",
+      "position": "Chef Service Personnel ",
+      "location_type": "",
+      "location": "N'Djamena - Tchad",
+      "url": "#",
+      "startDate": "2021-01-02",
+      "endDate": "2022-01-02",
+      "summary": "Conception et réalisation d'un web vitrine de l’association",
+      "highlights": [
+        ""
+      ],
+      "responsibilities": [
+        "Gestion et résolution des conflits au sein de l’entreprise.",
+        "Facilitation de la communication entre la direction et les employés."
+      ],
+      "achievements": [],
+      "skills": [
+        
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "PHP",
+        "Wordpress",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "ASSOCIATION D’APPUIS POUR LE DÉVELOPPEMENT DURABLE AADD",
+      "position": "Trésorier",
+      "location_type": "",
+      "location": "N'Djamena - Tchad",
+      "url": "#",
+      "startDate": "2020-01-02",
+      "endDate": "2021-01-02",
+      "summary": "Gestion des comptes de l'association",
+      "highlights": [
+        ""
+      ],
+      "responsibilities": [
+        "Enregistrement de toutes les transactions financières, maintien les registres de recettes et le dépenses.",
+        "Préparation et présentation de budget annuel.",
+        "Rapports financiers",
+        "Gestion de collecte de Fonds et des paiements"
+
+      ],
+      "achievements": [],
+      "skills": [
+        "Microsft Word",
+        "Microsft Excel",
+        "Microsft PowerPoint" 
+      ]
+    },
+    {
+      "name": "GEBIS INTERNATIONAL",
+      "position": "Assistant du Directeur Général",
+      "location_type": "",
+      "location": "N'Djamena - Tchad",
+      "url": "#",
+      "startDate": "2023-01-02",
+      "endDate": null,
+      "summary": "Gestion de l'agenda, organisation des réunions, correspondance et déplacements du Directeur. Assistance dans le suivi et la gestion des projets stratégiques de l'entreprise.",
+      "highlights": [],
+      "responsibilities": [
+        "Planifier, organiser les réunions et les déplacements et les rendez-vous.",
+        "Assurer la communication entre le Directeur et les partenaire internes.",
+        "Collecter et analyser des données pour fournir des informations pertinentes."
+      ], 
+      "skills": [
+        "Microsft Word",
+        "Microsft Excel",
+        "Microsft PowerPoint" 
+      ]
+    } 
   ],
+   
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
+      "institution": "IUC | Institut Universitaire de la Cote",
+      "url": "https://myiuc.com/produit/m-pro-systeme-dinformation-et-genie-logiciel/",
+      "area": "SYSTEME D’INFORMATION ET GENIE LOGICIEL",
       "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
+      "startDate": "2018",
+      "endDate": "2019", 
       "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
+        "SYSTEME D’INFORMATION",
+        "GENIE LOGICIEL"
       ]
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
-    }
-  ],
-  "certificates": [
+      "institution": "ondokuz mayıs üniversitesi",
+      "url": "https://bil-muhendislik.omu.edu.tr/tr/egitim/yueksek-lisans",
+      "area": "Yüksek Lisans",
+      "studyType": "Yüksek Lisans",
+      "startDate": "2017-10-01",
+      "endDate": "2018-08-03", 
+      "courses": []
+    } ,
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "institution": "Université Gaston Berger de Saint-Louis (Sénégal)",
+      "url": "https://www.ugb.sn/fr",
+      "area": "Genie en Informatique ",
+      "studyType": "Licence Pro en Informatique",
+      "startDate": "2011-10-01",
+      "endDate": "2014-07-28", 
+      "courses": []
+    } ,
+    
+    {
+      "institution": "Lycée Felix Éboué de N’Djamena. (Tchad )", 
+      "area": "Baccalauréat de I'Enseignerrrent du Sccond Degré Serie Scientifique(Équivalent DEC pré-universitaire)",
+      "studyType": "Baccalauréat(Pré-Universitaire)",
+      "startDate": "2008-10-01",
+      "endDate": "2011-07-05", 
+      "courses": []
     }
   ],
+  "certificates": [ ],
   "skills": [
     {
       "name": "Figma",
-      "level": "Expert",
+      "level": "Beginner",
       "keywords": [
         "Design",
         "UI"
@@ -213,7 +299,7 @@
     },
     {
       "name": "Tailwind",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -223,7 +309,7 @@
     },
     {
       "name": "TypeScript",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -233,7 +319,7 @@
     },
     {
       "name": "Node",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Web Development",
         "Backend",
@@ -253,7 +339,7 @@
     },
     {
       "name": "Git",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Version Control",
         "Collaboration",
@@ -283,82 +369,104 @@
     },
     {
       "name": "React",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Web Development",
         "Frontend",
         "JavaScript Library",
         "UI"
       ]
+    },
+    {
+      "name": "Django",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Python Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Ruby-on rails",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend", 
+        "UI"
+      ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Arabe",
+      "fluency": "UPPER INTERMEDIATE"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "ELEMENTARY"
+    },
+    {
+      "language": "Français",
+      "fluency": "MASTERY"
+    },
+    {
+      "language": "Turc",
+      "fluency": "ADVANCED"
     },
     {
       "language": "Spanish",
-      "fluency": "Intermediate"
-    }
+      "fluency": "BEGINNER"
+    } 
   ],
+
   "interests": [
     {
       "name": "Technology",
       "keywords": [
-        "AI",
-        "Blockchain"
+        "AI(artificial intelligence)",
+        "Blockchain",
+        "Data science", 
+        "cloud computing",
+        "cyber security",
+        "coding",
+        "Design"
       ]
     }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
-    }
-  ],
+  ], 
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "Gestion de Stock",
       "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "description": "Conception et réalisation d'une application pour la gestion de stock pour la société OUMAL-KHER HOLDING.",
+      "highlights": [ "MySQL, HTML, CSS, JAVASCRIPT"]
     },
     {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
+      "name": "site vitrine",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Conception, réalisation et maintenance du site vitrine de l'association AMELIORONS NOTRE CADRE DE VIE.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "HTML, CSS, JAVASCRIPT, PHP, Wordpress, MySQL"
+      ] 
+    },
+    {
+      "name": "Gestion Administrative du CFPP",
+      "isActive": true,
+      "description": "Conception et réalisation d'une application pour la gestion administrative du Centre de Formation Professionnelle Pluridisciplinaire (CFPP).",
+      "highlights": ["HTML, CSS, JAVASCRIPT, PHP"] 
+    },
+    {
+      "name": "Gestion de Stock Aziz-Stock",
+      "isActive": true,
+      "description": "Conception et réalisation d'une application pour la gestion de stock",
+      "highlights": [
+        "SQL Server",
+        "C#, ASP.NET core 8.0"
       ],
-      "url": "https://ecommerce.com"
-    }
+      "url": "https://github.com/Abdelaziz00235/EBS"
+    } 
   ]
 }
+
+
+
