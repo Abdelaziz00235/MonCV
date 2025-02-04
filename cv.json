@@ -435,39 +435,30 @@
     }
   ], 
   "projects": [
-     
     {
       "name": "Gestion de Stock",
       "isActive": false,
       "description": "Conception et réalisation d'une application pour la gestion de stock pour la société OUMAL-KHER HOLDING.",
-      "highlights": [ "MySQL, HTML, CSS, JAVASCRIPT"],
-      "github": "https://github.com/Abdelaziz00235/Gestion-de-Stock"
+      "highlights": [ "MySQL, HTML, CSS, JAVASCRIPT"]
+      
     },
     {
       "name": "site vitrine",
       "isActive": false,
       "description": "Conception, réalisation et maintenance du site vitrine de l'association AMELIORONS NOTRE CADRE DE VIE.",
-      "highlights": [
-        "HTML, CSS, JAVASCRIPT, PHP, Wordpress, MySQL"
-      ],
-      "github": "https://github.com/Abdelaziz00235/"
+      "highlights": [ "HTML, CSS, JAVASCRIPT, PHP, Wordpress, MySQL" ] 
     },
     {
       "name": "Gestion Administrative du CFPP",
       "isActive": true,
       "description": "Conception et réalisation d'une application pour la gestion administrative du Centre de Formation Professionnelle Pluridisciplinaire (CFPP).",
-      "highlights": ["HTML, CSS, JAVASCRIPT, PHP"],
-      "github": "https://github.com/Abdelaziz00235/"
+      "highlights": ["HTML, CSS, JAVASCRIPT, PHP"] 
     },
     {
       "name": "Gestion de Stock Aziz-Stock",
       "isActive": true,
       "description": "Conception et réalisation d'une application pour la gestion de stock",
-      "highlights": [
-        "SQL Server",
-        "C#, ASP.NET core 8.0"
-      ],
-      "url": "https://github.com/Abdelaziz00235/EBS"
+      "highlights": [ "SQL Server", "C#, ASP.NET core 8.0" ] 
     } 
   ]
 }
