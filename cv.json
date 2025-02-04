@@ -435,11 +435,13 @@
     }
   ], 
   "projects": [
+     
     {
       "name": "Gestion de Stock",
       "isActive": false,
       "description": "Conception et réalisation d'une application pour la gestion de stock pour la société OUMAL-KHER HOLDING.",
-      "highlights": [ "MySQL, HTML, CSS, JAVASCRIPT"]
+      "highlights": [ "MySQL, HTML, CSS, JAVASCRIPT"],
+      "github": "https://github.com/Abdelaziz00235/Gestion-de-Stock"
     },
     {
       "name": "site vitrine",
@@ -447,13 +449,15 @@
       "description": "Conception, réalisation et maintenance du site vitrine de l'association AMELIORONS NOTRE CADRE DE VIE.",
       "highlights": [
         "HTML, CSS, JAVASCRIPT, PHP, Wordpress, MySQL"
-      ] 
+      ],
+      "github": "https://github.com/Abdelaziz00235/"
     },
     {
       "name": "Gestion Administrative du CFPP",
       "isActive": true,
       "description": "Conception et réalisation d'une application pour la gestion administrative du Centre de Formation Professionnelle Pluridisciplinaire (CFPP).",
-      "highlights": ["HTML, CSS, JAVASCRIPT, PHP"] 
+      "highlights": ["HTML, CSS, JAVASCRIPT, PHP"],
+      "github": "https://github.com/Abdelaziz00235/"
     },
     {
       "name": "Gestion de Stock Aziz-Stock",
